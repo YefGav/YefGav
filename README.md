@@ -1,16 +1,38 @@
-## Hi, I am Yeferson👋
 
-<!--
-**YefGav/YefGav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
 
-Here are some ideas to get you started:
+Hi there! I'm Yeferson, a web development student passionate about learning new technologies and creating innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals
+
+To become a skilled Full Stack Developer.
+To work on impactful projects that make a difference.
+
+💻 Skills
+
+Currently learning:
+HTML
+CSS
+JavaScript
+Git and GitHub
+
+🌱 Projects
+
+Personal Portfolio Website:
+I'm building my portfolio website to showcase my learning journey and projects.
+
+Colombianos en España Website:
+Currently developing a website called Colombianos en España, aimed at providing useful resources and information for Colombians living in Spain.(https://xn--colombianosenespaa-30b.es/)
+
+✨ Interests
+
+I'm fascinated by:
+
+Interactive web application development.
+Enhancing user experience and web performance.
+
+📫 Let's Connect!
+
+Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or share ideas.
+
+
