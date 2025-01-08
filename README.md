@@ -15,7 +15,7 @@ Hi! I'm **Yeferson**, a web development student passionate about creating soluti
 
 ---
 
-## 💻 Skills  
+ ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="GIF de Skills" width="50"/>    Skills  
 Currently learning:  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
